@@ -1,5 +1,7 @@
 a = int(input("Enter a value"))
 b = int(input("Enter b value"))
+
+#function to add two numbers
 def add(a ,b)
  sum = a+b;
 def print_hi(name):
